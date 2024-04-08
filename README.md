@@ -1,2 +1,2 @@
 # I_Love_Rust
-Programs I wrote while learning the rust programming language.
+Programs I wrote while learning the Rust programming language.
